@@ -99,10 +99,10 @@
 			isa = PBXGroup;
 			children = (
 				742A904A2A1C9F2F00829474 /* CofferatoriumApp.swift */,
-				742A904E2A1C9F3000829474 /* Assets.xcassets */,
 				7481ACF92A25B60500C17A29 /* CookBook.swift */,
 				742A90742A1C9FEA00829474 /* MainView.swift */,
 				7481ACFB2A25B62D00C17A29 /* AccountPage.swift */,
+				742A904E2A1C9F3000829474 /* Assets.xcassets */,
 				742A90502A1C9F3000829474 /* Preview Content */,
 			);
 			path = Cofferatorium;
